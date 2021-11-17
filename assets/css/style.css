@@ -1,0 +1,35 @@
+header {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    padding: .2em;
+}
+
+label {
+    font-size: 24px;
+}
+
+.sidebar {
+    height: 100vh;
+}
+
+.card-content p {
+    padding: 10px 0;
+}
+
+.five-day {
+    display: flex;
+    justify-content: space-between;
+}
+
+.forecast {
+    margin: 0 2em;
+    text-align: start;
+}
+
+.history-btn {
+    margin: 15px 0;
+}
